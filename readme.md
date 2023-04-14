@@ -20,7 +20,7 @@ Thanks to my [Mentor - devmentor.pl](https://devmentor.pl/) – for providing me
 
 ## Overview
 ### MOBILE
-![obraz](https://user-images.githubusercontent.com/91606497/227250172-bbcefd06-9ba3-4974-b2ba-384b30a28530.png)
+![obraz](https://user-images.githubusercontent.com/91606497/232053774-5d529c2e-357c-415e-8e78-6c2569da45e5.png)
 ### DESKTOP
-![obraz](https://user-images.githubusercontent.com/91606497/227250612-2feeb872-9b2c-49d1-8740-cf70cb7232e5.png)
+![obraz](https://user-images.githubusercontent.com/91606497/232053624-ab5d73ba-c1f7-434b-9136-b2e664b7bd85.png)
 
